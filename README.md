@@ -5,12 +5,12 @@ I have implemented a total of 6 algorithms so far. And will try to add more late
 Algorithms implemented yet so far are
 
 
-Selection sort
-Insertion sort
-Heap sort
-Merge sort
-Quick sort
-Bubble Sort 
+1. Selection sort
+2. Insertion sort
+3. Heap sort
+4. Merge sort
+5. Quick sort
+6. Bubble Sort 
 
 
 
